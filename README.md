@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+summerintership2024_2IT132
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🌟 Technohacks Summer Internship 2024 - Project Showcase 🌟
+Welcome to my GitHub repository for the Technohacks Summer Internship 2024! This project showcases the work done during the internship, highlighting practical insights and hands-on experience with cutting-edge technologies and innovative solutions.
 
 ## Available Scripts
 
