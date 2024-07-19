@@ -1,71 +1,86 @@
-# summerintership2024_D23IT168
+# summerintership2024_22IT132
 
 <h2>4th Sem Summer Internship</h2>
 # 🌟 TechnoHacks Edutech  - Project Showcase 🌟
 
 Welcome to my GitHub repository for the Technohacks Summer Internship 2024! This project showcases the work done during the internship, highlighting practical insights and hands-on experience with cutting-edge technologies and innovative solutions.
 
-## 🚀 Introduction
-
-### *15th May 2024*
-- *AWS Bootcamp Live Session*: Basics of Amazon Web Services
-- On 25th may, there was a live bootcamp which Amit Arora sir(Security Architect at AWS) is doing for an AWS Club where entry level engineers can participate and build there AWS skills from groundsup.. So it wasn't the start of internship but we learnt the basics of amazon web services , how it provides various functionalities to developers.
-The internsip period is of 4 weeks with focus on Labs and Practical Insights to make familiar with aws.
 
 # Start of Internship
 
 ## 1️⃣ week 1
-### *28th May 2024*
-- *Orientation Meeting*: Introduction to AWS and overview of the internship tasks
-- At the start of meeting I tackled questions regarding aws to know its base. Then the 1st week agenda regarding the tasks to be done was discussed. The tasks including from the start of creating an account to generating a portfolio hosted on a aws instance.
+### *14th May 2024*
+- *Orientation Meeting*: Introduction to MERN and overview of the internship tasks
+- At the start of meeting I tackled questions regarding Frontend to know its base. Then the 1st week agenda regarding the tasks to be done was discussed.
 
-<img src="https://media.licdn.com/dms/image/D5612AQEpoU1DdzX4yw/article-cover_image-shrink_600_2000/0/1654203654746?e=2147483647&v=beta&t=1WAkA9Pdvki3nSBEkXHCF7LkPrQvbmaeJu39czxaqpg" alt="AWS Bootcamp" width="300"/>
 
 
 
 
 ## 📝 Day-by-Day Progress
 
-Day 1: Wednesday
-Design FoodHub and study the technologies used: Began by conceptualizing the design of the FoodHub project and studying the technologies that will be used.
-Setup and install extensions in VS Code: Configured the development environment by installing necessary extensions in VS Code.
-Read documentation and understand how MERN works: Delved into the documentation to understand the workings of the MERN stack.
-Day 2: Thursday
-Setup NPM in VS Code: Installed and configured NPM in VS Code to manage project dependencies.
-Create a React app named FoodHub and understand it: Created a new React application named FoodHub and explored its structure and functionality.
-Simplify the code of React and delete unnecessary folders: Cleaned up the React project by removing unused files and folders for better maintainability.
-Day 3: Friday
-Create Navbar for FoodHub website using React: Developed a responsive Navbar component for the FoodHub website using React.
-Add and connect Bootstrap in React file named FoodHub: Integrated Bootstrap into the React project to enhance the UI components.
-Create Footer of FoodHub and Search Bar: Designed and implemented a Footer component and a Search Bar for the FoodHub website.
-Day 4: Saturday
-Create Cart.js for different dishes: Developed a Cart component to handle different dishes and their quantities.
-Import Routes and Router-DOM in Home.js: Implemented routing in the FoodHub project using React Router-DOM.
-Add Carousel for infinite random food image sliders in FoodHub: Integrated a Carousel component to display an infinite loop of random food images, enhancing the visual appeal of the FoodHub website.
+### Day 1: wednesday
+Design FoodHub and choose the technology stack.
+Setup and install necessary extensions in VS Code.
+Read documentation to understand how the MERN stack works.
+
+### Day 2: Thursday
+Setup NPM in VS Code.
+Create a React app named FoodHub and familiarize yourself with its structure.
+Simplify the React codebase by removing unnecessary folders.
+
+### Day 3: Friday
+Create a Navbar for the FoodHub website using React.
+Add and connect Bootstrap within the React files of FoodHub.
+Design and implement the Footer and a Search Bar for FoodHub.
+
+### Day 4: Saturday
+
+Develop Cart.js for managing different dishes in the FoodHub application.
+Import Routes and Router-DOM in Home.js to manage navigation.
+Implement a Carousel for displaying infinite random food image sliders in FoodHub.
 
 ## 2️⃣ week 2
 
-### *4th June 2024*
-- *Online Session*: Learning about storage and S3 with its related services ,also swictching from EC2 to S3
-- In the start of meeting we were asked rapid questions regarding week 1 task.
-  ![AWS Cloudfront](https://media.licdn.com/dms/image/C4E12AQEYszsOFAPr5w/article-cover_image-shrink_423_752/0/1604073753428?e=1723680000&v=beta&t=jL2yIMG8R1YzgOTl7VSfr4YN6m50WtYwZTvAFLipRRE)
 
 
 
 ## 📝 Day-by-Day Progress
 
+### Day 1:  27/05/2024 Monday
+Documentation & Installation of MongoDB on your laptop.
+Connect MongoDB with FoodHub.
+Add food items data in MongoDB.
 
-Studied how to define and u
+### Day 2:28/05/2024 Tuesday
+Add Mongoose database to your project.
+Create JSON files for FoodData and FoodCategory.
+Create a MongoDB Atlas account.
 
-Had another Zoom meeting with the team.
-Shared weekly progress and discussed upcoming tasks.
+### Day 3:29/05/2024 Wednesday
+Start setting up the backend and install Express.js.
+Download necessary packages for Express.js in VS Code.
+Simplify the React codebase and remove unnecessary folders.
+
+### Day 4:30/05/2024 Thursday
+Troubleshoot any issues with Express.js localhost setup.
+Gain understanding of SQL vs No-SQL databases.
+Participate in a Zoom meeting for discussions.
+
+### Day 5:31/05/2024 Friday
+Understand schemas in Mongoose for MongoDB.
+Implement schema and model in FoodHub using Mongoose.
+Implement routes in Mongoose for data interaction.
+
+### Day 6: 01/06/2024 Saturday
+Review and refine the FoodHub project progress.
+Learn and implement ASYNC and AWAIT usage in Express.js.
+Participate in a Zoom meeting for project discussions.
+
+
+
+
 ## 3️⃣ week 3
-
-### 12th June 2024
-- Online Session: Introduction to AWS DynamoDB, API Gateway, and Lambda Functions
-- This week focused on building a serverless backend using AWS services like DynamoDB, API Gateway, and Lambda Functions. We worked on a project to create CRUD APIs for managing items in a DynamoDB table.
-
-  <img src="https://media.licdn.com/dms/image/D5612AQFMBfd4HnZ0Iw/article-cover_image-shrink_720_1280/0/1699630089018?e=1724284800&v=beta&t=eG1tqVAl1EvKAu9J4LmAqAmFE5uxPQReQJEz88P8xiA" width="550" height="300"/>
 
 
 
@@ -111,23 +126,7 @@ Zoom meeting and discussion: Joined another team meeting to review the week's pr
 
 ## 4️⃣ week 4
 
-### *21st June 2024*
-- *Online Session*: Introduction to AWS Bedrock, S3, and Knowledge Base Integration
-- This week focused on building a knowledge base using AWS Bedrock, creating a vector store for efficient data retrieval, and interacting with the knowledge base using an agent.
 
-  <img src="https://community.aws/_next/image?url=https%3A%2F%2Fassets.community.aws%2Fa%2F2Z6yg51zfyrwr7WzyFJ4zNsUukb.png%3FimgSize%3D2772x1102&w=3840&q=75" width="550" height="300"/>
-
-### *Here is the Outline of Week-4:*
-1. Create a Bucket
-2. Upload my Resume
-3. Create Knowledge Base in BedRock
-4. Link S3 Bucket Object (Resume) with this Knowledge Base
-5. Create Vector Store using Embeddings and Data Source
-6. Test Knowledge Base using Generate Responses
-7. Test Knowledge Base without using Generate Responses
-8. Create an Agent
-9. Connect it with Knowledge Base
-10. Interact with your Resume
 
 ## 📝 Day-by-Day Progress
 
